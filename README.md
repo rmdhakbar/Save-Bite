@@ -20,7 +20,6 @@ SaveBite is an innovative Android application designed to reduce food waste by c
 - **Voucher System**: Discount vouchers and promotional codes
 - **Real-time Location**: Find nearby restaurants using GPS
 - **Payment Integration**: Secure payment processing with Midtrans
-- **AI Integration**: Google Gemini AI for recipe suggestions and food recommendations
 - **Push Notifications**: Real-time updates on orders and offers
 - **Socket Communication**: Live updates and real-time features
 
@@ -166,17 +165,6 @@ Make sure to configure the following in your project:
 - Midtrans API keys (sandbox/production)
 - Socket.IO server configuration
 
-## 🤝 Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Team
 
